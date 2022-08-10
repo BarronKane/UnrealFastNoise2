@@ -1,3 +1,4 @@
-[submodule "Source/ThirdParty/FastNoise2"]
+[submodule "FastNoise2"]
 	path = Source/ThirdParty/FastNoise2
 	url = git@github.com:BarronKane/FastNoise2.git
+	branch = master-shards
